@@ -8,7 +8,7 @@ void printHello()
 int main(void)
 {
 	printHello();
-	
+	printHello();	
 	return 0;
 }
 
