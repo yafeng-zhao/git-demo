@@ -9,6 +9,8 @@ int main(void)
 {
 	printHello();
 	printHello();	
+
+	printHello();
 	return 0;
 }
 
