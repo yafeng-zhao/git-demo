@@ -1,7 +1,14 @@
 #include <stdio.h>
+
+void printHello()
+{
+	printf("hello\r\n");
+}
+
 int main(void)
 {
-	printf("hello\n\r");
+	printHello();
+	
 	return 0;
 }
 
