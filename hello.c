@@ -8,7 +8,9 @@ void printHello()
 int main(void)
 {
 	printHello();
-	printHello();	
+	printHello();
+
+	hot-fix test;
 	return 0;
 }
-
+hot-fix test
