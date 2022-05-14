@@ -8,7 +8,9 @@ void printHello()
 int main(void)
 {
 	printHello();
-
+	
+	
+	test_pull();
 	return 0;
 }
 
