@@ -9,10 +9,6 @@ int main(void)
 {
 	printHello();
 
-
-
-	hot-fix test;
-
 	return 0;
 }
 
